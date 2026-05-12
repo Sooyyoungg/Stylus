@@ -77,8 +77,8 @@ Quantitative comparison vs **MusicGen** and **MusicTI** and qualitative comparis
 
 | Script | Entry-point | Notes |
 | --- | --- | --- |
-| `scripts/main.sh` | `run_styleid_DP_CFG.py` | **Default Stylus run** — γ=0.75, α=0.9, T=1, 50 DDIM steps. Produces the 13,246 stylized samples reported in the paper. |
-| `scripts/main_interactive.sh` | `run_styleid_DP_CFG.py` | Interactive single-pair version of the above (debug / pilot study) |
+| `scripts/main.sh` | `main.py` | **Default Stylus run** — γ=0.75, α=0.9, T=1, 50 DDIM steps. Produces the 13,246 stylized samples reported in the paper. |
+| `scripts/main_interactive.sh` | `main.py` | Interactive single-pair version of the above (debug / pilot study) |
 
 ### Baselines reproduced in-house
 
