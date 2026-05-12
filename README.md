@@ -1,4 +1,4 @@
-# Stylus:Repurposing Image Diffusion Models for Training-Free Music Style Transfer on Mel-Spectrograms — ICIP 2026
+# [ICIP 2026] Stylus:Repurposing Image Diffusion Models for Training-Free Music Style Transfer on Mel-Spectrograms
 
 This document maps each experiment reported in [**"Repurposing Image Diffusion Models for Training-Free Music Style Transfer on Mel-Spectrograms"**](https://arxiv.org/abs/2411.15913) to the scripts that produced it.
 - Project page: [The Official Website for Stylus.]()
