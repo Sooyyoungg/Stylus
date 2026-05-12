@@ -3,8 +3,6 @@
 This document maps each experiment reported in [**"Repurposing Image Diffusion Models for Training-Free Music Style Transfer on Mel-Spectrograms"**](https://arxiv.org/abs/2411.15913) to the scripts that produced it.
 - Project page: [The Official Website for Stylus.]()
 
-All shell scripts call into top-level Python entry-points (`run_styleid*.py`) that share a common StyleID + CFG pipeline; the shell wrappers fix hyperparameters and output directories.
-
 ---
 
 ## 0. Installation
